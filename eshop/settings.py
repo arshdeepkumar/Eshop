@@ -26,7 +26,7 @@ SECRET_KEY = 'r_s#v*n$=bdnpzj76+nodjonoc4a00!*nhyrj$1mw-(ekc*fjj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["appkumar.herokuapp.com",'127.0.0.1']
+ALLOWED_HOSTS = ["appweather11.herokuapp.com",'127.0.0.1']
 
 
 # Application definition
